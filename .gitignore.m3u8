@@ -1,25 +1,21 @@
 #EXTM3U
-#
-
-#EXTINF:-1,CANAL ACCION
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/223.ts
-#EXTINF:-1,CANAL DCINE
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/256.ts
-#EXTINF:-1,C+ ESTRENOS
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/211.ts
-#EXTINF:-1,CANAL COMEDIA
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/257.ts
-#EXTINF:-1,AXN
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/252.ts
-#EXTINF:-1,AXN White
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/207.ts
-#EXTINF:-1,CALLE13
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/254.ts
-#EXTINF:-1,Canal Cocina
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/251.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC (ES)
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/212.ts
-#EXTINF:-1,Nat Geo Wild
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/206.ts
-#EXTINF:-1,AMC
-http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/205.ts
+#EXTINF:-1,ESP: Telecinco
+http://iptv80.ddns.net:9070/live/karimos/skype88/197.m3u8
+#EXTINF:-1,ESP:BARCA TV
+http://iptv80.ddns.net:9070/live/karimos/skype88/198.m3u8
+#EXTINF:-1,ESP: Real Madrid Channel
+http://iptv80.ddns.net:9070/live/karimos/skype88/199.m3u8
+#EXTINF:-1,ESP: NAT GEO WILD
+http://iptv80.ddns.net:9070/live/karimos/skype88/200.m3u8
+#EXTINF:-1,ESP:CANAL LIGA HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/203.m3u8
+#EXTINF:-1,ESP: FOX
+http://iptv80.ddns.net:9070/live/karimos/skype88/205.m3u8
+#EXTINF:-1,ESP: Canal DCine
+http://iptv80.ddns.net:9070/live/karimos/skype88/211.m3u8
+#EXTINF:-1,ESP:CANAL ACCION HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/201.m3u8
+#EXTINF:-1,ES: Canal Toros
+http://iptv80.ddns.net:9070/live/karimos/skype88/208.m3u8
+#EXTINF:-1,ES: Canal Futbol
+http://iptv80.ddns.net:9070/live/karimos/skype88/209.m3u8
